@@ -1,5 +1,5 @@
 // Exponentiate
-// Author: Jamal
+// Author: Md. Jamal Uddin
 // Date: Feb 28, 2019
 
 #include <stdio.h>
