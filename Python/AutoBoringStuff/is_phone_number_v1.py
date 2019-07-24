@@ -18,4 +18,3 @@ def is_phone_number(text):
 
 
 print(is_phone_number('444-555-1234')) #True
-
