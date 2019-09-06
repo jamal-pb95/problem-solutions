@@ -14,5 +14,17 @@ public class ArrayListExample {
 
         System.out.println("Size of array list: " + al.size());
         System.out.println("Contents of array list: " + al);
+
+        al.add(0, 'Z');
+        al.remove("A");
+        al.remove(2);
+
+        System.out.println("Size of array list: " + al.size());
+        System.out.println("Contents of array list: " + al);
+
+        int x = al.indexOf("F");
+        System.out.println("Index of F is " + x);
+
+        System.out.println(al.isEmpty() ? "this is an empty array" : "This is not an empty array. there have " + al.size() + " items");
     }
 }
