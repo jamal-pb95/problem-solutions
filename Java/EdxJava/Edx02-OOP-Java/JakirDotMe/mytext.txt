@@ -1,2 +1,0 @@
-Wow! I write mytext file using Java.
-Hello TextFile!
