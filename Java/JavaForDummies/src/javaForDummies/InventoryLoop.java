@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class InventoryLoop {
     public static void main(String[] args) {
-        final double boxPirce = 3.25;
+        final double boxPrice = 3.25;
         boolean gotGoodsInput = false;
         Scanner sc = new Scanner(System.in);
         NumberFormat currency = NumberFormat.getCurrencyInstance();
@@ -16,7 +16,7 @@ public class InventoryLoop {
             try {
                 int numBoxes = Integer.parseInt(numBoxesIn);
                 System.out.print("The value is ");
-                System.out.println(currency.format(numBoxes * boxPirce));
+                System.out.println(currency.format(numBoxes * boxPrice));
                 gotGoodsInput = true;
             } catch (NumberFormatException e) {
                 System.out.println();
