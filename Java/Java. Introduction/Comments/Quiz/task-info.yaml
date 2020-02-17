@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: All types of comments are used here
+- text: End-of-line comments
+- text: Javadoc comments
+- text: Standard multi-line comments
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+status: Solved
+record: -1
+selected_options:
+- 3

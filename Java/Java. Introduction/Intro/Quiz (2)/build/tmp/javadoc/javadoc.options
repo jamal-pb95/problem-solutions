@@ -1,0 +1,6 @@
+-classpath 'F:\\Projects\\problem-solving\\Java\\Java. Introduction\\Intro\\Quiz (2)\\build\\classes\\java\\main;F:\\Projects\\problem-solving\\Java\\Java. Introduction\\Intro\\Quiz (2)\\build\\resources\\main;F:\\Projects\\problem-solving\\Java\\Java. Introduction\\util\\build\\classes\\java\\main;F:\\Projects\\problem-solving\\Java\\Java. Introduction\\util\\build\\resources\\main'
+-d 'F:\\Projects\\problem-solving\\Java\\Java. Introduction\\Intro\\Quiz (2)\\build\\docs\\javadoc'
+-doctitle 'Intro-Quiz__2_ API'
+-quiet 
+-windowtitle 'Intro-Quiz__2_ API'
+'F:\\Projects\\problem-solving\\Java\\Java. Introduction\\Intro\\Quiz (2)\\src\\Main.java'
